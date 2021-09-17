@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color: yellow;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: blanchedalmond;
+    padding: 10px;
+    height: 50%;
+}
+
+h1{
+    font-size: 45px;
+    font: outline;
+    align-items: center;
+    font-weight: solid bold yellow;
+}
+
+ol{
+    padding: 10px;
+    border-bottom: 10px;
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    padding: 5px;
+    border: black;
+    font-size: 25px;
+    margin: 0   ;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
